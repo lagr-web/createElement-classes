@@ -1,0 +1,13 @@
+{
+    "twoArray": [
+        "../assets/images/ninja.png",
+        "../assets/images/panda.png",
+        "../assets/images/panda.png"
+    ],
+    "fourArray": [
+        "../assets/images/doll.png",
+        "../assets/images/bird.png",
+        "../assets/images/santa.png",
+        "../assets/images/elf.png"
+    ]
+}
